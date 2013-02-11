@@ -1,0 +1,1 @@
+<?php echo "Fichier créé par Yann"; ?>
